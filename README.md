@@ -15,12 +15,12 @@
     2. Install the Umqtt-client library on pico w.
     3. Connect the rotary encoder to the Raspberry Pi Pico W board.
     4. Clone this repository to your computer.
-          ```
+      ```
       git clone https://github.com/phuong-ta/Rotary-Encoder.git
       ```
     5. Open the project in Thonny and modify the main.py file according to your MQTT broker configuration.
     6. Run the main.py script using the following command:
-              ```
+      ```
       python main.py
       ```
 ## Usage
